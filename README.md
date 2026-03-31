@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shriram
 
-<!--
-**shriram-1407/shriram-1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cybersecurity student currently learning and exploring basic security concepts using Python.
 
-Here are some ideas to get you started:
+## Projects
+- Phishing URL Detection System  
+- Dictionary Attack Simulator  
+- Brute Force Attack Prevention System  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Cybersecurity fundamentals  
+- Ethical hacking basics  
+- Python for security tools  
+
+## Goal
+To gain practical experience through internships and build strong skills in cybersecurity.
